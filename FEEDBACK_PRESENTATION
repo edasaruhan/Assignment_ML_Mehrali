@@ -1,0 +1,7 @@
+1- please look your image quality, they are too bad I cant read labels properly and use original size dont stractch it.
+2- Data part, give information what did you do for cleaning etc and EDA, please add one slide what did you do and then put your output.
+3- Model training part please add only models dont put that image, you can put that image to result part.
+4- Where is model evaluation and hyperparameter tuning part?
+5- where is model refinement and testing part
+6- where is result part - it should contain confusion metrics, f1 score, recall, precision etc.
+7- please finish deployment.
